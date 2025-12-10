@@ -32,7 +32,7 @@ A simple Timesheet Management App built using Next.js and Tailwind CSS.
    http://localhost:3000
 
 ## Features
-- Login screen (dummy authentication or NextAuth)
+- Login screen (Using NextAuth)
 - Dashboard with timesheet data
 - Filters: Date range, Status
 - Weekly timesheet table
