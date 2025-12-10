@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ts-1",
+    "userId": "1",
+    "week": 44,
+    "startDate": "2025-10-27",
+    "endDate": "2025-10-31",
+    "totalHours": 40,
+    "status": "Completed"
+  },
+  {
+    "id": "ts-2",
+    "userId": "1",
+    "week": 45,
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-07",
+    "totalHours": 18,
+    "status": "Incompleted"
+  },
+  {
+    "id": "ts-3",
+    "userId": "1",
+    "week": 46,
+    "startDate": "2025-11-10",
+    "endDate": "2025-11-14",
+    "totalHours": 40,
+    "status": "Completed"
+  },
+  {
+    "id": "ts-4",
+    "userId": "1",
+    "week": 47,
+    "startDate": "2025-11-17",
+    "endDate": "2025-11-21",
+    "totalHours": 14,
+    "status": "Incompleted"
+  },
+  {
+    "id": "ts-5",
+    "userId": "1",
+    "week": 48,
+    "startDate": "2025-11-24",
+    "endDate": "2025-11-28",
+    "totalHours": 0,
+    "status": "Missing"
+  },
+  {
+    "id": "ts-6",
+    "userId": "1",
+    "week": 49,
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-05",
+    "totalHours": 0,
+    "status": "Missing"
+  },
+  {
+    "id": "ts-7",
+    "userId": "1",
+    "week": 50,
+    "startDate": "2025-12-08",
+    "endDate": "2025-12-12",
+    "totalHours": 0,
+    "status": "Missing"
+  },
+  {
+    "id": "ts-8",
+    "userId": "1",
+    "week": 51,
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-19",
+    "totalHours": 0,
+    "status": "Missing"
+  },
+  {
+    "id": "ts-9",
+    "userId": "1",
+    "week": 52,
+    "startDate": "2025-12-22",
+    "endDate": "2025-12-26",
+    "totalHours": 0,
+    "status": "Missing"
+  },
+  {
+    "id": "ts-10",
+    "userId": "1",
+    "week": 1,
+    "startDate": "2025-12-29",
+    "endDate": "2026-01-02",
+    "totalHours": 0,
+    "status": "Missing"
+  },
+  {
+    "id": "ts-11",
+    "userId": "1",
+    "week": 2,
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-09",
+    "totalHours": 0,
+    "status": "Missing"
+  },
+  {
+    "id": "ts-12",
+    "userId": "1",
+    "week": 3,
+    "startDate": "2026-01-12",
+    "endDate": "2026-01-16",
+    "totalHours": 0,
+    "status": "Missing"
+  },
+  {
+    "id": "ts-13",
+    "userId": "1",
+    "week": 4,
+    "startDate": "2026-01-19",
+    "endDate": "2026-01-23",
+    "totalHours": 0,
+    "status": "Missing"
+  },
+  {
+    "id": "ts-14",
+    "userId": "1",
+    "week": 5,
+    "startDate": "2026-01-26",
+    "endDate": "2026-01-30",
+    "totalHours": 0,
+    "status": "Missing"
+  },
+  {
+    "id": "ts-15",
+    "userId": "1",
+    "week": 6,
+    "startDate": "2026-02-02",
+    "endDate": "2026-02-06",
+    "totalHours": 0,
+    "status": "Missing"
+  }
+]

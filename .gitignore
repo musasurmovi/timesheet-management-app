@@ -1,0 +1,138 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Next.js Build Artifacts
+.next/
+out/
+build/
+dist/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.sublime-workspace
+*.sublime-project
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Cache Files
+.eslintcache
+.stylelintcache
+*.tsbuildinfo
+
+# Local Environment Files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Optional npm Cache Directory
+.npm
+
+# Optional ESLINT Cache
+.eslintcache
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+
+# Production Build Files
+dist/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+
+# Database Files
+*.sqlite
+*.sqlite3
+*.db
+
+# Local Database Files (if using local storage)
+.cache/
+
+# macOS
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# Linux
+.directory
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# TypeScript
+*.tsbuildinfo
+dist/
+build/
+
+# IDE Specific
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.iml
+*.iws
+*.ipr
+*.sublime-workspace
+
+# Generated Files
+.env.*.example
+
+# CI/CD
+.github/workflows/node.yml
+
+# Miscellaneous
+.turbo/
+.vercel/
+.netlify/
+.envrc
